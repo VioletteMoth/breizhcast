@@ -9,6 +9,9 @@
 - Header
   - Search
   - Account
+  - Burger
+    - Kinds
+    - ToSee
 - Footer
   - About
   - License
@@ -32,6 +35,8 @@
 - Id
 - Name
 - Category
+- Date
+- Author
 - Keyword (?)(see if doable)
 
 ---
@@ -40,23 +45,29 @@
 
 **A way for contributors to easily post articles**
 
-- Account system
-  - Admin
-    - Modify the site
-  - Contributor
-    - Post articles
-  - User
-    - Save articles (?)
-    - Reading list (?)
+Account system
+- Admin
+  - Modify the site
+- Contributor
+  - Post articles
+- User
+  - Save articles (?)
+  - Reading list (?)
+  - Newsletter (?)
 
 ## Hosting
 
-### Identifiaction
+### Database
 
-**The ID of each article**
+- ID (str)
+  - (podcast id)-(article id)
+  - ex: fan-84152855
+- Name (str)
+- Description (str)
+- Date (date)
+  - DD/MM/YYYY
+- Author (str)
+  - Actually the ID of the poster
 
-*(podcast id)-(article id)*
-
-ex: fan-84152855
 
 
