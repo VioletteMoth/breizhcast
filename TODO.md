@@ -51,3 +51,15 @@
   - User
     - Save articles (?)
     - Reading list (?)
+
+## Hosting
+
+### Identifiaction
+
+**The ID of each article**
+
+*(podcast id)-(article id)*
+
+ex: fan-84152855
+
+
