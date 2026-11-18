@@ -37,7 +37,7 @@
 - Category
 - Date
 - Author
-- Keyword (?)(see if doable)
+- Description (Keyword (? see if doable))
 
 ---
 
