@@ -38,6 +38,7 @@
 - Date
 - Author
 - Description (Keyword (? see if doable))
+- Vues
 
 ---
 
