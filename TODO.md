@@ -6,15 +6,12 @@
 
 **What every page has**
 
-- Menu
-  - Latest
-  - Culture
-  - Fiction
-  - Contact
+- Header
+  - Search
   - Account
 - Footer
   - About
-  - Licence
+  - License
 
 ---
 
