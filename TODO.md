@@ -38,7 +38,7 @@
 - Date
 - Author
 - Description (Keyword (? see if doable))
-- Vues
+- Views (5+ min on a podcast (? see if doable))
 
 ---
 
